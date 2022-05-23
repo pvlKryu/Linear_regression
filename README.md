@@ -21,3 +21,6 @@ Train mse:
 19306.85068414516 <br>
 Test mse:
 3.3287891454200028e+16
+### Self-written gradient descent:
+Train MSE GD_Regressor:  197151.96183913611 <br>
+Test MSE GD_Regressor:  198865.79451044145
